@@ -28,7 +28,7 @@ global.CAPTION = '_Ai_'
 > Ai Bot Password Get From Watching This Video 
 */
 global.AI_PASSWORD = 'king-nima-gpt-bot'
-global.SESSION_ID = ''
+global.SESSION_ID = 'elisa_md@;;;wZ8y2RhD#-W57hlvUlsZtcTiOzsdt3ofFQpKzEDRr7TzxX6F_nHU'
 
 /*
 🎲 𝗢𝗧𝗛𝗘𝗥 𝗦𝗘𝗧𝗜𝗡𝗚𝗦
